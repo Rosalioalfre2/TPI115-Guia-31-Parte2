@@ -2,23 +2,38 @@
 <!-- ejemplo6.xml  GRUPO 06 -->
 <?xml-stylesheet type="text/css" href="Ejercicio6.css" ?>
 <registro motivo="Materias inscritas en un ciclo" personas_registradas="estudiantes universitarios">
-<ficha id="1">
-<descripcion>Estudiante Ingresado: </descripcion>
-<nombre> Carlos </nombre>
-<apellido> Perez</apellido>
-<carnet> PA12345</carnet>
-<lista_materias> Listado de Materias:</lista_materias>
-<materia1>Arquitectura de Computadoras</materia1>
-<codigo1> ARC115</codigo1>
-<teorico1>GT 01</teorico1>
-<laboratorio1> GL 05 </laboratorio1>
-<materia2> Teoría de Sistemas</materia2>
-<codigo2> TSI115 </codigo2>
-<teorico2> GT 02</teorico2>
-<laboratorio2> GL 03</laboratorio2>
-<materia3> Técnicas de Programación para Internet</materia3>
-<codigo3> TPI115 </codigo3>
-<teorico3> GT 01</teorico3>
-<laboratorio3> GL 02</laboratorio3>
-</ficha>
+    <ficha id="1">
+    <descripcion>Estudiante Ingresado: </descripcion>
+    <nombre> <strong>Nombre:</strong> Carlos </nombre>
+    <apellido> <strong>Apellido:</strong> Perez</apellido>
+    <carnet> <strong>Carnet:</strong> PA12345</carnet>
+
+    <br></br>
+    <lista_materias> Listado de Materias:</lista_materias>
+
+    <br></br>
+    <materia>
+        <materia1><strong>Nombre de la materia:</strong> Arquitectura de Computadoras</materia1>
+        <codigo1> <strong>Codigo de la materia:</strong> ARC115</codigo1>
+        <teorico1><strong>Grupo teorico:</strong> GT 01</teorico1>
+        <laboratorio1> <strong>Grupo de laboratorio:</strong> GL 05 </laboratorio1>
+    </materia>
+    <br></br>
+    <materia>
+        <materia2> <strong>Nombre de la materia:</strong> Teoría de Sistemas</materia2>
+        <codigo2> <strong>Codigo de la materia:</strong> TSI115 </codigo2>
+        <teorico2> <strong>Grupo teorico:</strong> GT 02</teorico2>
+        <laboratorio2> <strong>Grupo de laboratorio:</strong> GL 03</laboratorio2>
+    </materia>
+
+    <br></br>
+    <materia>
+        <materia3> <strong>Nombre de la materia:</strong> Técnicas de Programación para Internet</materia3>
+        <codigo3> <strong>Codigo de la materia:</strong> TPI115 </codigo3>
+        <teorico3> <strong>Grupo teorico:</strong> GT 01</teorico3>
+        <laboratorio3> <strong>Grupo de laboratorio:</strong> GL 02</laboratorio3>
+    </materia>
+
+
+    </ficha>
 </registro>

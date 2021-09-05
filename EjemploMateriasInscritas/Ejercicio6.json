@@ -1,26 +1,82 @@
 {
-	"registro":{
-		"@motivo":"Materias inscritas en un ciclo",
-		"@personas_registradas":"estudiantes universitarios",
-		"ficha":{
-			"@id":"1",
-			"descripcion":"Estudiante Ingresado: ",
-			"nombre":" Carlos ",
-			"apellido":" Perez",
-			"carnet":" PA12345",
-			"lista_materias":" Listado de Materias:",
-			"materia1":"Arquitectura de Computadoras",
-			"codigo1":" ARC115",
-			"teorico1":"GT 01",
-			"laboratorio1":" GL 05 ",
-			"materia2":" Teoría de Sistemas",
-			"codigo2":" TSI115 ",
-			"teorico2":" GT 02",
-			"laboratorio2":" GL 03",
-			"materia3":" Técnicas de Programación para Internet",
-			"codigo3":" TPI115 ",
-			"teorico3":" GT 01",
-			"laboratorio3":" GL 02"
-		}
-	}
+  "registro": {
+    "ficha": {
+      "descripcion": "Estudiante Ingresado:",
+      "nombre": {
+        "#text": "Carlos",
+        "strong": "Nombre:"
+      },
+      "apellido": {
+        "#text": "Perez",
+        "strong": "Apellido:"
+      },
+      "carnet": {
+        "#text": "PA12345",
+        "strong": "Carnet:"
+      },
+      "br": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lista_materias": "Listado de Materias:",
+      "materia": [
+        {
+          "materia1": {
+            "#text": "Arquitectura de Computadoras",
+            "strong": "Nombre de la materia:"
+          },
+          "codigo1": {
+            "#text": "ARC115",
+            "strong": "Codigo de la materia:"
+          },
+          "teorico1": {
+            "#text": "GT 01",
+            "strong": "Grupo teorico:"
+          },
+          "laboratorio1": {
+            "#text": "GL 05",
+            "strong": "Grupo de laboratorio:"
+          }
+        },
+        {
+          "materia2": {
+            "#text": "Teoría de Sistemas",
+            "strong": "Nombre de la materia:"
+          },
+          "codigo2": {
+            "#text": "TSI115",
+            "strong": "Codigo de la materia:"
+          },
+          "teorico2": {
+            "#text": "GT 02",
+            "strong": "Grupo teorico:"
+          },
+          "laboratorio2": {
+            "#text": "GL 03",
+            "strong": "Grupo de laboratorio:"
+          }
+        },
+        {
+          "materia3": {
+            "#text": "Técnicas de Programación para Internet",
+            "strong": "Nombre de la materia:"
+          },
+          "codigo3": {
+            "#text": "TPI115",
+            "strong": "Codigo de la materia:"
+          },
+          "teorico3": {
+            "#text": "GT 01",
+            "strong": "Grupo teorico:"
+          },
+          "laboratorio3": {
+            "#text": "GL 02",
+            "strong": "Grupo de laboratorio:"
+          }
+        }
+      ]
+    }
+  }
 }
