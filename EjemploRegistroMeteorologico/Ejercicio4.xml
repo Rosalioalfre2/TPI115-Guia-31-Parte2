@@ -3,8 +3,10 @@
 <?xml-stylesheet type="text/css" href="Ejercicio4.css" ?>
 <registro Entidad_correspondiente="Servicio Nacional de
 Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 8 de agosto de 2021">
+<h1>Servicio Nacional de Estudios Territoriales</h1>
+<h2>Pronóstico meteorológico del 1 al 8 de agosto de 2021</h2>
 <ficha id="1" fechaingreso="1/08/2021">
-<descripcion>Pronóstico Domingo 1 de agosto según SNET</descripcion>
+<descripcion>Domingo 1 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -21,7 +23,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="2" fechaingreso="2/08/2021">
-<descripcion>Pronóstico Lunes 2 de agosto según SNET</descripcion>
+<descripcion>Lunes 2 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -38,7 +40,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="3" fechaingreso="3/08/2021">
-<descripcion>Pronóstico Martes 3 de agosto según SNET</descripcion>
+<descripcion>Martes 3 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -55,7 +57,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="4" fechaingreso="4/08/2021">
-<descripcion>Pronóstico Miércoles 4 de agosto según SNET</descripcion>
+<descripcion>Miércoles 4 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -72,7 +74,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="5" fechaingreso="5/08/2021">
-<descripcion>Pronóstico Jueves 5 de agosto según SNET</descripcion>
+<descripcion>Jueves 5 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 20 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 26 °C (grados centigrados)</promedio>
@@ -89,7 +91,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="6" fechaingreso="6/08/2021">
-<descripcion>Pronóstico Viernes 6 de agosto según SNET</descripcion>
+<descripcion>Viernes 6 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 20 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 26 °C (grados centigrados)</promedio>
@@ -106,7 +108,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="7" fechaingreso="7/08/2021">
-<descripcion>Pronóstico Sábado 7 de agosto según SNET</descripcion>
+<descripcion>Sábado 7 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -123,7 +125,7 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 
 
 <ficha id="8" fechaingreso="8/08/2021">
-<descripcion>Pronóstico Domingo 8 de agosto según SNET</descripcion>
+<descripcion>Domingo 8 de agosto</descripcion>
 <zona>Zona Occidental</zona>
 <minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
 <promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
@@ -137,5 +139,4 @@ Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 
 <promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
 <maxima2>Temperatura  máxima de 35 °C (grados centigrados)</maxima2>
 </ficha>
-
-</registro> 
+</registro>

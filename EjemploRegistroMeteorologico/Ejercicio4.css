@@ -1,15 +1,27 @@
 /* ejemplo4.css   GRUPO 06  */
-registro{width: 600px;margin: 0 auto;background-color: #e6e6fa; padding: 20px 20px 20px 20px;}
-descripcion {background-color:white;font-size:1cm;  text-align: center;display:block;} 
-zona{color:black; font-size:0.5cm; text-align: center; display:inline;}
-minima{color:black;font-size:0.5cm; text-align: center; display:inline;}
-promedio {color:black;font-size:0.5cm; display:inline;}
-maxima {color:black;font-size:0.5cm; display:inline;}
-zona1 {color:black;font-size:0.5cm; display:inline;}
-minima1{color:black;font-size:0.5cm; display:inline;}
-promedio1 {color:black;font-size:0.5cm; display:inline;}
-maxima1 {color:black;font-size:0.5cm; display:inline;}
-zona2 {color:black;font-size:0.5cm; display:inline;}
-minima2{color:black;font-size:0.5cm; display:inline;}
-promedio2 {color:black;font-size:0.5cm; display:inline;}
-maxima2 {color:black;font-size:0.5cm; display:inline;}
+registro{margin: 0 auto;background-image: url("fondo1.jpg"); background-size: 100% 100%; background-repeat: no-repeat; padding: 20px 20px 20px 20px;}
+/*titulo{background-color:white;font-size:1.0cm;  text-align: center; display: table;}
+titulo2{background-color: white;font-size: 0.8cm;text-align: center;display: inline-block;}*/
+descripcion {background-color:rgb(223, 223, 223);font-size:0.8cm;  text-align: center;display:block;}
+zona{color:black; font-size:0.5cm; text-align: center;background-color: rgb(255, 227, 182);
+    display: table; width: 500px; 
+    border: 5px double black; margin: 10px 50px;}
+zona1{color:black; font-size:0.5cm; text-align: center;background-color: rgb(255, 227, 182);
+    display: table; width: 500px; 
+    border: 5px double black; margin: 10px 50px;}
+zona2{color:black; font-size:0.5cm; text-align: center;background-color: rgb(255, 227, 182);
+    display: table; width: 500px; 
+    border: 5px double black; margin: 10px 50px;}
+minima{color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+promedio {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+maxima {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+minima1{color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+promedio1 {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+maxima1 {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+minima2{color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+promedio2 {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+maxima2 {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+ficha { display: table; width: 500px; 
+    border: 5px double black; margin: 40px 300px; }
+    h1{background-color: rgb(255, 227, 182);font-size: 1cm;text-align: center;color: black;display: block;}
+    h2{background-color: rgb(255, 206, 128);font-size: 0.8cm;text-align: center;color: black;display: block;}
