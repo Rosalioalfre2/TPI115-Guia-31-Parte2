@@ -1,0 +1,26 @@
+{
+	"registro":{
+		"@motivo":"Materias inscritas en un ciclo",
+		"@personas_registradas":"estudiantes universitarios",
+		"ficha":{
+			"@id":"1",
+			"descripcion":"Estudiante Ingresado: ",
+			"nombre":" Carlos ",
+			"apellido":" Perez",
+			"carnet":" PA12345",
+			"lista_materias":" Listado de Materias:",
+			"materia1":"Arquitectura de Computadoras",
+			"codigo1":" ARC115",
+			"teorico1":"GT 01",
+			"laboratorio1":" GL 05 ",
+			"materia2":" Teoría de Sistemas",
+			"codigo2":" TSI115 ",
+			"teorico2":" GT 02",
+			"laboratorio2":" GL 03",
+			"materia3":" Técnicas de Programación para Internet",
+			"codigo3":" TPI115 ",
+			"teorico3":" GT 01",
+			"laboratorio3":" GL 02"
+		}
+	}
+}
