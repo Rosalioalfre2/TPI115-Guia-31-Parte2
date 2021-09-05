@@ -1,0 +1,19 @@
+/* ejemplo6.css   GRUPO 06  */
+registro{width: 600px;margin: 0 auto;background-color: #e6e6fa; padding: 20px 20px 20px 20px;}
+descripcion {background-color:white;font-size:1cm;  text-align: center;display:block;} 
+nombre{color:black; font-size:0.5cm; text-align: center; display:inline;}
+apellido{color:black;font-size:0.5cm; text-align: center; display:inline;}
+carnet{color:black;font-size:0.5cm; display:inline;}
+lista_materias{color:black;font-size:0.5cm; display:inline;}
+materia1 {color:black;font-size:0.5cm; display:inline;}
+codigo1{color:black;font-size:0.5cm; display:inline;}
+teorico1 {color:black;font-size:0.5cm; display:inline;}
+laboratorio1 {color:black;font-size:0.5cm; display:inline;}
+materia2 {color:black;font-size:0.5cm; display:inline;}
+codigo2{color:black;font-size:0.5cm; display:inline;}
+teorico2 {color:black;font-size:0.5cm; display:inline;}
+laboratorio2 {color:black;font-size:0.5cm; display:inline;}
+materia3 {color:black;font-size:0.5cm; display:inline;}
+codigo3{color:black;font-size:0.5cm; display:inline;}
+teorico3 {color:black;font-size:0.5cm; display:inline;}
+laboratorio3 {color:black;font-size:0.5cm; display:inline;}

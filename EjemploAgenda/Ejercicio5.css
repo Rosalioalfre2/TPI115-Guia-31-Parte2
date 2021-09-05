@@ -1,0 +1,8 @@
+/* ejemplo5.css   GRUPO 06  */
+registro{width: 600px;margin: 0 auto;background-color: #e6e6fa; padding: 20px 20px 20px 20px;}
+descripcion {background-color:white;font-size:1cm;  text-align: center;display:block;} 
+nombre{color:black; font-size:0.5cm;text-align:center;display:inline;}
+telefono{color:black;font-size:0.5cm; text-align: center; display:inline;}
+celular {color:black;font-size:0.5cm;  text-align: center; display:inline;}
+direccion {color:black;font-size:0.5cm; text-align: center; display:inline;}
+email {color:black;font-size:0.5cm; text-align: center; display:inline;}

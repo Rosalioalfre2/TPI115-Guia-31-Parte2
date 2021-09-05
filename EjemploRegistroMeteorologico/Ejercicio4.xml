@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo4.xml  GRUPO 06 -->
+<?xml-stylesheet type="text/css" href="Ejercicio4.css" ?>
+<registro Entidad_correspondiente="Servicio Nacional de
+Estudios Territoriales" fechas_registradas="Pronóstico meteorológico del 1 al 8 de agosto de 2021">
+<ficha id="1" fechaingreso="1/08/2021">
+<descripcion>Pronóstico Domingo 1 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 34 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 22 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 28 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 34 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 21 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 29 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 37 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="2" fechaingreso="2/08/2021">
+<descripcion>Pronóstico Lunes 2 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 34 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 22 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 27 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 33 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 21 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 36 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="3" fechaingreso="3/08/2021">
+<descripcion>Pronóstico Martes 3 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 33 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 22 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 27 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 33 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 21 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 29 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 37 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="4" fechaingreso="4/08/2021">
+<descripcion>Pronóstico Miércoles 4 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 21 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 33 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 21 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 27 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 33 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 20 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 36 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="5" fechaingreso="5/08/2021">
+<descripcion>Pronóstico Jueves 5 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 20 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 26 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 32 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 20 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 26 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 33 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 20 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 36 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="6" fechaingreso="6/08/2021">
+<descripcion>Pronóstico Viernes 6 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 20 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 26 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 32 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 20 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 26 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 32 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 20 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 36 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="7" fechaingreso="7/08/2021">
+<descripcion>Pronóstico Sábado 7 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 33 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 22 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 27 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 32 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 20 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 36 °C (grados centigrados)</maxima2>
+</ficha>
+
+
+<ficha id="8" fechaingreso="8/08/2021">
+<descripcion>Pronóstico Domingo 8 de agosto según SNET</descripcion>
+<zona>Zona Occidental</zona>
+<minima>Temperatura  mínima de 22 °C (grados centigrados)</minima>
+<promedio>Temperatura  promedio de 27 °C (grados centigrados)</promedio>
+<maxima>Temperatura  máxima de 32 °C (grados centigrados)</maxima>
+<zona1>Zona Central</zona1>
+<minima1>Temperatura  mínima de 22 °C (grados centigrados)</minima1>
+<promedio1>Temperatura  promedio de 27 °C (grados centigrados)</promedio1>
+<maxima1>Temperatura  máxima de 32 °C (grados centigrados)</maxima1>
+<zona2>Zona Oriental</zona2>
+<minima2>Temperatura  mínima de 22 °C (grados centigrados)</minima2>
+<promedio2>Temperatura  promedio de 28 °C (grados centigrados)</promedio2>
+<maxima2>Temperatura  máxima de 35 °C (grados centigrados)</maxima2>
+</ficha>
+
+</registro> 

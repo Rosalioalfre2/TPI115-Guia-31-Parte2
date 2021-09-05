@@ -1,0 +1,15 @@
+/* ejemplo4.css   GRUPO 06  */
+registro{width: 600px;margin: 0 auto;background-color: #e6e6fa; padding: 20px 20px 20px 20px;}
+descripcion {background-color:white;font-size:1cm;  text-align: center;display:block;} 
+zona{color:black; font-size:0.5cm; text-align: center; display:inline;}
+minima{color:black;font-size:0.5cm; text-align: center; display:inline;}
+promedio {color:black;font-size:0.5cm; display:inline;}
+maxima {color:black;font-size:0.5cm; display:inline;}
+zona1 {color:black;font-size:0.5cm; display:inline;}
+minima1{color:black;font-size:0.5cm; display:inline;}
+promedio1 {color:black;font-size:0.5cm; display:inline;}
+maxima1 {color:black;font-size:0.5cm; display:inline;}
+zona2 {color:black;font-size:0.5cm; display:inline;}
+minima2{color:black;font-size:0.5cm; display:inline;}
+promedio2 {color:black;font-size:0.5cm; display:inline;}
+maxima2 {color:black;font-size:0.5cm; display:inline;}
