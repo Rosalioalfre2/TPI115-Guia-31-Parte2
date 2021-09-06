@@ -1,0 +1,72 @@
+{
+	"registro":{
+		"@motivo":"Agenda de Contactos Personales",
+		"@personas_registradas":"Compañeros de Trabajo",
+		"ficha":[
+			{
+				"@id":"1",
+				"h1":"Agenda de Contactos Personales",
+				"descripcion":"Primer Contacto",
+				"nombre":"Nombre:Andres Abenabi",
+				"telefono":"Tel. Casa:2289-7458",
+				"celular":"Celular:7889-4561",
+				"direccion":"Dirección: Avenida Monseñor Romero y Final Calle 5 de Noviembre entre 21ª y 23ª Calle Oriente, una cuadra al norte del Mercado San Miguelito.",
+				"email":"Email:andreabe15@gmail.com"
+			},
+			{
+				"@id":"2",
+				"descripcion":"Segundo Contacto",
+				"nombre":"Nombre:Katya Carbajal",
+				"telefono":"Tel. Casa:2787-7273",
+				"celular":"Celular:7697-4241",
+				"direccion":"Dirección:Colonia Buenos Aires 3, Diagonal Centroamérica, Avenida Alvarado, contiguo al Ministerio de Hacienda",
+				"email":"Email:katyacarbajal6@gmail.com"
+			},
+			{
+				"@id":"3",
+				"descripcion":"Tercer Contacto",
+				"nombre":"Nombre:Marcelo Manzano",
+				"telefono":"Tel. Casa:2234-9785",
+				"celular":"Celular:7341-7797",
+				"direccion":"Dirección:1ª Calle Poniente entre 60ª Avenida Norte y Boulevard Constitución No. 3549 ",
+				"email":"Email:marcelomanzano80@gmail.com"
+			},
+			{
+				"@id":"4",
+				"descripcion":"Cuarto Contacto",
+				"nombre":"Nombre:Rosalio Monterrosa",
+				"telefono":"Tel. Casa:2986-2854",
+				"celular":"Celular:7914-7852",
+				"direccion":"Direccion:Colonia San Francisco, Avenida Las Camelias y Calle Los Abetos No. 21",
+				"email":"Email:rosaliomon@gmail.com"
+			},
+			{
+				"@id":"5",
+				"descripcion":"Quinto Contacto",
+				"nombre":"Nombre:Brenda Martínez",
+				"telefono":"Tel. Casa:2897-3465",
+				"celular":"Celular:73647122",
+				"direccion":"Dirección:10ª Avenida Sur y Calle Lara No. 934, Barrio San Jacinto",
+				"email":"Email:BrendaMar12@gmail.com"
+			},
+			{
+				"@id":"6",
+				"descripcion":"Sexto Contacto",
+				"nombre":"Nombre:Katerin Angel",
+				"telefono":"Tel. Casa:2711-2564",
+				"celular":"Celular;7745-9862",
+				"direccion":"Dirección:Avenida Independencia y Alameda Juan Pablo II, No. 437",
+				"email":"Email:katerinangel@gmail.com"
+			},
+			{
+				"@id":"7",
+				"descripcion":"Séptimo Contacto",
+				"nombre":"Nombre:Marvin Rivera",
+				"telefono":"Tel. Casa:22478523",
+				"celular":"Celular:7194-6852",
+				"direccion":"Dirección:Carretera a San Marcos, Décima Avenida Sur No. 934 y Calle Lara.",
+				"email":"Email:marvinrivera@gmail.com"
+			}
+		]
+	}
+}
