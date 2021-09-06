@@ -1,82 +1,250 @@
 {
   "registro": {
-    "ficha": {
-      "descripcion": "Estudiante Ingresado:",
-      "nombre": {
-        "#text": "Carlos",
-        "strong": "Nombre:"
-      },
-      "apellido": {
-        "#text": "Perez",
-        "strong": "Apellido:"
-      },
-      "carnet": {
-        "#text": "PA12345",
-        "strong": "Carnet:"
-      },
-      "br": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "lista_materias": "Listado de Materias:",
-      "materia": [
-        {
-          "materia1": {
-            "#text": "Arquitectura de Computadoras",
-            "strong": "Nombre de la materia:"
-          },
-          "codigo1": {
-            "#text": "ARC115",
-            "strong": "Codigo de la materia:"
-          },
-          "teorico1": {
-            "#text": "GT 01",
-            "strong": "Grupo teorico:"
-          },
-          "laboratorio1": {
-            "#text": "GL 05",
-            "strong": "Grupo de laboratorio:"
-          }
+    "tema": "Registro de estudiantes:",
+    "ficha": [
+      {
+        "descripcion": "Estudiante #001:",
+        "nombre": {
+          "#text": "Carlos",
+          "strong": "Nombre:"
         },
-        {
-          "materia2": {
-            "#text": "Teoría de Sistemas",
-            "strong": "Nombre de la materia:"
-          },
-          "codigo2": {
-            "#text": "TSI115",
-            "strong": "Codigo de la materia:"
-          },
-          "teorico2": {
-            "#text": "GT 02",
-            "strong": "Grupo teorico:"
-          },
-          "laboratorio2": {
-            "#text": "GL 03",
-            "strong": "Grupo de laboratorio:"
-          }
+        "apellido": {
+          "#text": "Perez",
+          "strong": "Apellido:"
         },
-        {
-          "materia3": {
-            "#text": "Técnicas de Programación para Internet",
-            "strong": "Nombre de la materia:"
+        "carnet": {
+          "#text": "PA12345",
+          "strong": "Carnet:"
+        },
+        "br": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "lista_materias": "Listado de Materias:",
+        "materia": [
+          {
+            "materia1": {
+              "#text": "Arquitectura de Computadoras",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo1": {
+              "#text": "ARC115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico1": {
+              "#text": "GT 01",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio1": {
+              "#text": "GL 05",
+              "strong": "Grupo de laboratorio:"
+            }
           },
-          "codigo3": {
-            "#text": "TPI115",
-            "strong": "Codigo de la materia:"
+          {
+            "materia2": {
+              "#text": "Teoría de Sistemas",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo2": {
+              "#text": "TSI115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico2": {
+              "#text": "GT 02",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio2": {
+              "#text": "GL 03",
+              "strong": "Grupo de laboratorio:"
+            }
           },
-          "teorico3": {
-            "#text": "GT 01",
-            "strong": "Grupo teorico:"
-          },
-          "laboratorio3": {
-            "#text": "GL 02",
-            "strong": "Grupo de laboratorio:"
+          {
+            "materia3": {
+              "#text": "Técnicas de Programación para Internet",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo3": {
+              "#text": "TPI115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico3": {
+              "#text": "GT 01",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio3": {
+              "#text": "GL 02",
+              "strong": "Grupo de laboratorio:"
+            }
           }
-        }
-      ]
-    }
+        ]
+      },
+      {
+        "descripcion": "Estudiante #002:",
+        "nombre": {
+          "#text": "Oliver Tom",
+          "strong": "Nombre:"
+        },
+        "apellido": {
+          "#text": "Okazaki Tree",
+          "strong": "Apellido:"
+        },
+        "carnet": {
+          "#text": "OT15896",
+          "strong": "Carnet:"
+        },
+        "br": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "lista_materias": "Listado de Materias:",
+        "materia": [
+          {
+            "materia1": {
+              "#text": "Matematica II",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo1": {
+              "#text": "MAT215",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico1": {
+              "#text": "GT 01",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio1": {
+              "#text": "GD 13",
+              "strong": "Grupo de discusion:"
+            }
+          },
+          {
+            "materia2": {
+              "#text": "Fisica I",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo2": {
+              "#text": "FIR115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico2": {
+              "#text": "GT 02",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio2": [
+              {
+                "#text": "GL 03",
+                "strong": "Grupo de laboratorio:"
+              },
+              {
+                "#text": "GD 14",
+                "strong": "Grupo de discusion:"
+              }
+            ]
+          },
+          {
+            "materia3": {
+              "#text": "Programacion I",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo3": {
+              "#text": "PRN115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico3": {
+              "#text": "GT 01",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio3": {
+              "#text": "GL 12",
+              "strong": "Grupo de laboratorio:"
+            }
+          },
+          {
+            "materia3": {
+              "#text": "Historia Social y economica de El Salvador",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo3": {
+              "#text": "HSE115",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico3": {
+              "#text": "GT 06",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio3": {
+              "#text": "GD 13",
+              "strong": "Grupo de discusion:"
+            }
+          }
+        ]
+      },
+      {
+        "descripcion": "Estudiante #003:",
+        "nombre": {
+          "#text": "Hamtaro Voitcot",
+          "strong": "Nombre:"
+        },
+        "apellido": {
+          "#text": "Stark Roudy",
+          "strong": "Apellido:"
+        },
+        "carnet": {
+          "#text": "SR17547",
+          "strong": "Carnet:"
+        },
+        "br": [
+          "",
+          "",
+          ""
+        ],
+        "lista_materias": "Listado de Materias:",
+        "materia": [
+          {
+            "materia1": {
+              "#text": "Matematicas IV",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo1": {
+              "#text": "MAT415",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico1": {
+              "#text": "GT 10",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio1": {
+              "#text": "GD 16",
+              "strong": "Grupo de discusion:"
+            }
+          },
+          {
+            "materia2": {
+              "#text": "Fisica III",
+              "strong": "Nombre de la materia:"
+            },
+            "codigo2": {
+              "#text": "FIR315",
+              "strong": "Codigo de la materia:"
+            },
+            "teorico2": {
+              "#text": "GT 03",
+              "strong": "Grupo teorico:"
+            },
+            "laboratorio2": {
+              "#text": "GL 03",
+              "strong": "Grupo de laboratorio:"
+            },
+            "laboratorio1": {
+              "#text": "GD 36",
+              "strong": "Grupo de discusion:"
+            }
+          }
+        ]
+      }
+    ]
   }
 }
