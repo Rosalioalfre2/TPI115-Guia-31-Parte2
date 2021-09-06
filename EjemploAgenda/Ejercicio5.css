@@ -1,8 +1,13 @@
 /* ejemplo5.css   GRUPO 06  */
-registro{width: 600px;margin: 0 auto;background-color: #e6e6fa; padding: 20px 20px 20px 20px;}
+registro{background-image: url("fondo1.jpg");width: 600px;margin: 0 auto;background-color: #e6e6fa;
+     padding: 20px 20px 20px 20px;display: table;background-size: 100% 100%;}
 descripcion {background-color:white;font-size:1cm;  text-align: center;display:block;} 
-nombre{color:black; font-size:0.5cm;text-align:center;display:inline;}
-telefono{color:black;font-size:0.5cm; text-align: center; display:inline;}
-celular {color:black;font-size:0.5cm;  text-align: center; display:inline;}
-direccion {color:black;font-size:0.5cm; text-align: center; display:inline;}
-email {color:black;font-size:0.5cm; text-align: center; display:inline;}
+nombre{color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item; }
+telefono{color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+celular {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+direccion {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+email {color:black;font-size:0.5cm; text-align: center; list-style: disc inside; display:list-item;}
+ficha { display: table; width: 500px; 
+    border: 5px double black; margin: 40px 300px; }
+    h1{background-color: rgb(210, 182, 255);font-size: 1cm;text-align: center;color: black;display: block;}
+    
