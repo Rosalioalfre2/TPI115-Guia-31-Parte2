@@ -2,38 +2,109 @@
 <!-- ejemplo6.xml  GRUPO 06 -->
 <?xml-stylesheet type="text/css" href="Ejercicio6.css" ?>
 <registro motivo="Materias inscritas en un ciclo" personas_registradas="estudiantes universitarios">
+
+    <tema>Registro de estudiantes:</tema>
     <ficha id="1">
-    <descripcion>Estudiante Ingresado: </descripcion>
-    <nombre> <strong>Nombre:</strong> Carlos </nombre>
-    <apellido> <strong>Apellido:</strong> Perez</apellido>
-    <carnet> <strong>Carnet:</strong> PA12345</carnet>
+        <descripcion>Estudiante #001: </descripcion>
+        <nombre> <strong>Nombre:</strong> Carlos </nombre>
+        <apellido> <strong>Apellido:</strong> Perez</apellido>
+        <carnet> <strong>Carnet:</strong> PA12345</carnet>
 
-    <br></br>
-    <lista_materias> Listado de Materias:</lista_materias>
+        <br></br>
+        <lista_materias> Listado de Materias:</lista_materias>
 
-    <br></br>
-    <materia>
-        <materia1><strong>Nombre de la materia:</strong> Arquitectura de Computadoras</materia1>
-        <codigo1> <strong>Codigo de la materia:</strong> ARC115</codigo1>
-        <teorico1><strong>Grupo teorico:</strong> GT 01</teorico1>
-        <laboratorio1> <strong>Grupo de laboratorio:</strong> GL 05 </laboratorio1>
+        <br></br>
+        <materia>
+            <materia1><strong>Nombre de la materia:</strong> Arquitectura de Computadoras</materia1>
+            <codigo1> <strong>Codigo de la materia:</strong> ARC115</codigo1>
+            <teorico1><strong>Grupo teorico:</strong> GT 01</teorico1>
+            <laboratorio1> <strong>Grupo de laboratorio:</strong> GL 05 </laboratorio1>
+        </materia>
+        <br></br>
+        <materia>
+            <materia2> <strong>Nombre de la materia:</strong> Teoría de Sistemas</materia2>
+            <codigo2> <strong>Codigo de la materia:</strong> TSI115 </codigo2>
+            <teorico2> <strong>Grupo teorico:</strong> GT 02</teorico2>
+            <laboratorio2> <strong>Grupo de laboratorio:</strong> GL 03</laboratorio2>
+        </materia>
+
+        <br></br>
+        <materia>
+            <materia3> <strong>Nombre de la materia:</strong> Técnicas de Programación para Internet</materia3>
+            <codigo3> <strong>Codigo de la materia:</strong> TPI115 </codigo3>
+            <teorico3> <strong>Grupo teorico:</strong> GT 01</teorico3>
+            <laboratorio3> <strong>Grupo de laboratorio:</strong> GL 02</laboratorio3>
+        </materia>
+
+    </ficha>
+
+    <!-- Estudiante 2 -->
+    <ficha id="2">
+        <descripcion>Estudiante #002: </descripcion>
+        <nombre> <strong>Nombre:</strong> Oliver Tom </nombre>
+        <apellido> <strong>Apellido:</strong> Okazaki Tree</apellido>
+        <carnet> <strong>Carnet:</strong> OT15896</carnet>
+
+        <br></br>
+        <lista_materias> Listado de Materias:</lista_materias>
+
+        <br></br>
+        <materia>
+            <materia1><strong>Nombre de la materia:</strong> Matematica II</materia1>
+            <codigo1> <strong>Codigo de la materia:</strong> MAT215</codigo1>
+            <teorico1><strong>Grupo teorico:</strong> GT 01</teorico1>
+            <laboratorio1> <strong>Grupo de discusion:</strong> GD 13 </laboratorio1>
+        </materia>
+        <br></br>
+        <materia>
+            <materia2> <strong>Nombre de la materia:</strong> Fisica I</materia2>
+            <codigo2> <strong>Codigo de la materia:</strong> FIR115 </codigo2>
+            <teorico2> <strong>Grupo teorico:</strong> GT 02</teorico2>
+            <laboratorio2> <strong>Grupo de laboratorio:</strong> GL 03</laboratorio2>
+            <laboratorio2> <strong>Grupo de discusion:</strong> GD 14</laboratorio2>
+        </materia>
+
+        <br></br>
+        <materia>
+            <materia3> <strong>Nombre de la materia:</strong> Programacion I</materia3>
+            <codigo3> <strong>Codigo de la materia:</strong> PRN115 </codigo3>
+            <teorico3> <strong>Grupo teorico:</strong> GT 01</teorico3>
+            <laboratorio3> <strong>Grupo de laboratorio:</strong> GL 12</laboratorio3>
+        </materia>
+
+        <materia>
+            <materia3> <strong>Nombre de la materia:</strong> Historia Social y economica de El Salvador</materia3>
+            <codigo3> <strong>Codigo de la materia:</strong> HSE115 </codigo3>
+            <teorico3> <strong>Grupo teorico:</strong> GT 06</teorico3>
+            <laboratorio3> <strong>Grupo de discusion:</strong> GD 13</laboratorio3>
     </materia>
-    <br></br>
-    <materia>
-        <materia2> <strong>Nombre de la materia:</strong> Teoría de Sistemas</materia2>
-        <codigo2> <strong>Codigo de la materia:</strong> TSI115 </codigo2>
-        <teorico2> <strong>Grupo teorico:</strong> GT 02</teorico2>
-        <laboratorio2> <strong>Grupo de laboratorio:</strong> GL 03</laboratorio2>
-    </materia>
-
-    <br></br>
-    <materia>
-        <materia3> <strong>Nombre de la materia:</strong> Técnicas de Programación para Internet</materia3>
-        <codigo3> <strong>Codigo de la materia:</strong> TPI115 </codigo3>
-        <teorico3> <strong>Grupo teorico:</strong> GT 01</teorico3>
-        <laboratorio3> <strong>Grupo de laboratorio:</strong> GL 02</laboratorio3>
-    </materia>
+    </ficha>
 
 
+    <!-- Estudiante 3 -->
+    <ficha id="3">
+        <descripcion>Estudiante #003: </descripcion>
+        <nombre> <strong>Nombre:</strong> Hamtaro Voitcot </nombre>
+        <apellido> <strong>Apellido:</strong> Stark Roudy</apellido>
+        <carnet> <strong>Carnet:</strong> SR17547</carnet>
+
+        <br></br>
+        <lista_materias> Listado de Materias:</lista_materias>
+
+        <br></br>
+        <materia>
+            <materia1><strong>Nombre de la materia:</strong> Matematicas IV</materia1>
+            <codigo1> <strong>Codigo de la materia:</strong> MAT415</codigo1>
+            <teorico1><strong>Grupo teorico:</strong> GT 10</teorico1>
+            <laboratorio1> <strong>Grupo de discusion:</strong> GD 16 </laboratorio1>
+        </materia>
+        <br></br>
+        <materia>
+            <materia2> <strong>Nombre de la materia:</strong> Fisica III</materia2>
+            <codigo2> <strong>Codigo de la materia:</strong> FIR315 </codigo2>
+            <teorico2> <strong>Grupo teorico:</strong> GT 03</teorico2>
+            <laboratorio2> <strong>Grupo de laboratorio:</strong> GL 03</laboratorio2>
+            <laboratorio1> <strong>Grupo de discusion:</strong> GD 36 </laboratorio1>
+        </materia>
     </ficha>
 </registro>
