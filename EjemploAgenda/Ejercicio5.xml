@@ -1,71 +1,73 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejercicio5.css" ?>
 <!-- ejemplo5.xml  GRUPO 06 -->
 <?xml-stylesheet type="text/css" href="Ejercicio5.css" ?>
 <registro motivo="Agenda de Contactos Personales" personas_registradas="Compañeros de Trabajo">
 <ficha id="1">
+<h1>Agenda de Contactos Personales</h1>
 <descripcion>Primer Contacto</descripcion>
-<nombre>Andres Abenabi</nombre>
-<telefono>2289-7458</telefono>
-<celular>7889-4561</celular>
-<direccion>Avenida Monseñor Romero y Final Calle 5 de Noviembre entre 21ª y 23ª Calle Oriente, una cuadra al norte del Mercado San Miguelito.</direccion>
-<email>andreabe15@gmail.com</email>
+<nombre>Nombre:Andres Abenabi</nombre>
+<telefono>Tel. Casa:2289-7458</telefono>
+<celular>Celular:7889-4561</celular>
+<direccion>Dirección: Avenida Monseñor Romero y Final Calle 5 de Noviembre entre 21ª y 23ª Calle Oriente, una cuadra al norte del Mercado San Miguelito.</direccion>
+<email>Email:andreabe15@gmail.com</email>
 </ficha>
 
 <ficha id="2">
 <descripcion>Segundo Contacto</descripcion>
-<nombre>Katya Carbajal</nombre>
-<telefono>2787-7273</telefono>
-<celular>7697-4241</celular>
-<direccion>Colonia Buenos Aires 3, Diagonal Centroamérica, Avenida Alvarado, contiguo al Ministerio de Hacienda</direccion>
-<email>katyacarbajal6@gmail.com</email>
+<nombre>Nombre:Katya Carbajal</nombre>
+<telefono>Tel. Casa:2787-7273</telefono>
+<celular>Celular:7697-4241</celular>
+<direccion>Dirección:Colonia Buenos Aires 3, Diagonal Centroamérica, Avenida Alvarado, contiguo al Ministerio de Hacienda</direccion>
+<email>Email:katyacarbajal6@gmail.com</email>
 </ficha>
 
 
 <ficha id="3">
 <descripcion>Tercer Contacto</descripcion>
-<nombre>Marcelo Manzano</nombre>
-<telefono>2234-9785</telefono>
-<celular>7341-7797</celular>
-<direccion>1ª Calle Poniente entre 60ª Avenida Norte y Boulevard Constitución No. 3549 </direccion>
-<email>marcelomanzano80@gmail.com</email>
+<nombre>Nombre:Marcelo Manzano</nombre>
+<telefono>Tel. Casa:2234-9785</telefono>
+<celular>Celular:7341-7797</celular>
+<direccion>Dirección:1ª Calle Poniente entre 60ª Avenida Norte y Boulevard Constitución No. 3549 </direccion>
+<email>Email:marcelomanzano80@gmail.com</email>
 </ficha>
 
 
 <ficha id="4">
 <descripcion>Cuarto Contacto</descripcion>
-<nombre>Rosalio Monterrosa</nombre>
-<telefono>2986-2854</telefono>
-<celular>7914-7852</celular>
-<direccion>Colonia San Francisco, Avenida Las Camelias y Calle Los Abetos No. 21</direccion>
-<email>rosaliomon@gmail.com</email>
+<nombre>Nombre:Rosalio Monterrosa</nombre>
+<telefono>Tel. Casa:2986-2854</telefono>
+<celular>Celular:7914-7852</celular>
+<direccion>Direccion:Colonia San Francisco, Avenida Las Camelias y Calle Los Abetos No. 21</direccion>
+<email>Email:rosaliomon@gmail.com</email>
 </ficha>
 
 <ficha id="5">
 <descripcion>Quinto Contacto</descripcion>
-<nombre>Brenda Martínez</nombre>
-<telefono>2897-3465</telefono>
-<celular>73647122</celular>
-<direccion>10ª Avenida Sur y Calle Lara No. 934, Barrio San Jacinto</direccion>
-<email>BrendaMar12@gmail.com</email>
+<nombre>Nombre:Brenda Martínez</nombre>
+<telefono>Tel. Casa:2897-3465</telefono>
+<celular>Celular:73647122</celular>
+<direccion>Dirección:10ª Avenida Sur y Calle Lara No. 934, Barrio San Jacinto</direccion>
+<email>Email:BrendaMar12@gmail.com</email>
 </ficha>
 
 
 <ficha id="6">
 <descripcion>Sexto Contacto</descripcion>
-<nombre>Katerin Angel</nombre>
-<telefono>2711-2564</telefono>
-<celular>7745-9862</celular>
-<direccion>Avenida Independencia y Alameda Juan Pablo II, No. 437</direccion>
-<email>katerinangel@gmail.com</email>
+<nombre>Nombre:Katerin Angel</nombre>
+<telefono>Tel. Casa:2711-2564</telefono>
+<celular>Celular;7745-9862</celular>
+<direccion>Dirección:Avenida Independencia y Alameda Juan Pablo II, No. 437</direccion>
+<email>Email:katerinangel@gmail.com</email>
 </ficha>
 
 
 <ficha id="7">
 <descripcion>Séptimo Contacto</descripcion>
-<nombre>Marvin Rivera</nombre>
-<telefono>22478523</telefono>
-<celular>7194-6852</celular>
-<direccion>Carretera a San Marcos, Décima Avenida Sur No. 934 y Calle Lara.</direccion>
-<email>marvinrivera@gmail.com</email>
+<nombre>Nombre:Marvin Rivera</nombre>
+<telefono>Tel. Casa:22478523</telefono>
+<celular>Celular:7194-6852</celular>
+<direccion>Dirección:Carretera a San Marcos, Décima Avenida Sur No. 934 y Calle Lara.</direccion>
+<email>Email:marvinrivera@gmail.com</email>
 </ficha>
 </registro>
